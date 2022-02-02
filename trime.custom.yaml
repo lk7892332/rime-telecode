@@ -1,2 +1,2 @@
-patch:  
-  "preset_keyboards/telecode/import_preset": number
+patch:
+  preset_keyboards/number/lock: true
